@@ -32,18 +32,5 @@
     <li><strong>Matplotlib:</strong> Employed for creating visualizations in the Python notebook.</li>
     <li><strong>Tableau:</strong> Used to develop an interactive dashboard for stakeholders.</li>
   </ul>
-
-  <h2>Explore the Dashboard</h2>
-
-  <p>Visit the <a href="https://public.tableau.com/app/profile/surbhi.dilip.bhor/viz/InstacartMarketAnalysis_17048173569250/Dashboard1">Tableau Dashboard</a> to interact with the visualizations and explore the key findings of the Instacart market basket analysis.</p>
-
-  <h2>Conclusion</h2>
-
-  <p>Through the combination of Python analytics and Tableau visualizations, this analysis offers a deep understanding of consumer behavior within the Instacart market basket. The ER diagram provides clarity on data relationships, while the Python notebook highlights fundamental insights through EDA.</p>
-
-  <p>The Tableau dashboard, with its interactive features, serves as a powerful tool for stakeholders to extract actionable insights. Key decision-makers can leverage these findings to optimize inventory management, tailor marketing strategies, and enhance overall sales planning.</p>
-
-  <p>This project, with its multi-faceted approach, equips stakeholders with the knowledge needed to stay ahead in the dynamic landscape of the Instacart market. The continuous monitoring of purchasing patterns empowers businesses to adapt and thrive in a competitive market environment.</p>
-
 </body>
 </html>
